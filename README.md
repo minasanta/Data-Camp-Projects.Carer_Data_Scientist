@@ -7,5 +7,4 @@ to know more abour every project you can see a full descrepion of the project in
 
 ## A small overview about every project
 
-1. Project Investigating Netflix Movies and Guest Stars in The Office
-It's just a smal data scientist techinque to discover the data to answer a small qustion, are netflix movies getting shorter or not ? "It's just a small project to start with"
+1. Project Investigating Netflix Movies and Guest Stars in The Office : It's just a smal data scientist techinque to discover the data to answer a small qustion, are netflix movies getting shorter or not ? "It's just a small project to start with"
