@@ -17,9 +17,13 @@ It's just a smal data scientist techinque to discover the data to answer a small
 Project to answer some data science qustions about the businesses.
 At first we was asking about who is the oldest business then who is but in every continent, end up with who is the oldest business in each continent with each category like Aviation & Transport and Agriculture, etc..
 
-3. Peoject The Android App Market on Google Play
+3. Project The Android App Market on Google Play
 
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
 Let's take a look at the data, which consists of two files:
 
 The data for this project was scraped from the Google Play website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former.
+
+4. Project A Visual History of Nobel Prize Winners
+
+he Nobel Prize is perhaps the world's most well known scientific award, So taking the real data of who wins Nobel prize, we could extract useful information can used to analysis, so in this project we extract from the data answers you might see it intersting
